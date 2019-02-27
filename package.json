@@ -1,0 +1,11 @@
+{
+  "name": "whiteboard-warriors",
+  "version": "1.0.0",
+  "description": "website for the group whiteboard-warrior, improve your whiteboard interview skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
